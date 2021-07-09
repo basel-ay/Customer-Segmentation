@@ -8,3 +8,5 @@ Customer Segmentation is the subdivision of a market into discrete customer grou
 
 Dataset:
 https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+Notebook on Kaggle : https://www.kaggle.com/basel99/customer-segmentation-using-k-means-clustering
